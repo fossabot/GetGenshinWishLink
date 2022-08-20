@@ -4,8 +4,8 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/zhxycn/GetGenshinWishLink?style=flat-square)](https://github.com/zhxycn/GetGenshinWishLink/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/zhxycn/GetGenshinWishLink?style=flat-square)](https://github.com/zhxycn/GetGenshinWishLink/network)
+[![GitHub license](https://img.shields.io/github/license/zhxycn/GetGenshinWishLink?style=flat-square)](https://github.com/zhxycn/GetGenshinWishLink/blob/main/LICENSE)
 [![jsDelivr](https://data.jsdelivr.com/v1/package/gh/zhxycn/GetGenshinWishLink/badge)](https://www.jsdelivr.com/package/gh/zhxycn/GetGenshinWishLink)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzhxycn%2FGetGenshinWishLink.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzhxycn%2FGetGenshinWishLink?ref=badge_shield)
 
 A script for getting Genshin Impact wish links on Windows.  
 一条命令获取原神祈愿历史链接。
@@ -29,6 +29,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercon
 iex ((New-Object System.Net.WebClient).DownloadString('https://cdn.jsdelivr.net/gh/zhxycn/GetGenshinWishLink/GetGenshinWishLink.ps1'))
 ```
 
+## License | 许可证
+>© [zhxy-CN](https://github.com/zhxycn), Released under the [MIT](./LICENSE) License.
 
-## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzhxycn%2FGetGenshinWishLink.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzhxycn%2FGetGenshinWishLink?ref=badge_large)
